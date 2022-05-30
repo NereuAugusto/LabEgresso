@@ -1,0 +1,9 @@
+{
+	"name": "DatafactureEgresso",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e4f5189-74e7-48f9-b390-b4b252a6e2ff",
+		"tenantId": "bb71d943-080d-4302-b491-1f5adad5706a"
+	}
+}
